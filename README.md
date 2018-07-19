@@ -1,2 +1,2 @@
 # Asteroids-Game
-JavaScript final project
+A game i made for my JavaScript final project
